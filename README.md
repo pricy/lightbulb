@@ -13,7 +13,6 @@ Each lesson should state its own requirements.
 ## Order
 
 You can pick your starting point, and proceed progressively.  The order is:
-##Testing Repo
 
 1. adhoc_examples
 2. apache_playbook
